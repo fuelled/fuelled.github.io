@@ -1,0 +1,10 @@
+url: https://webox.dev
+title: Webox
+collections:
+  portfolios:
+    output: true
+    permalink: /portfolios/:name
+  plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
