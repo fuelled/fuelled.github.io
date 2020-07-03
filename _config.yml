@@ -1,10 +1,13 @@
 url: https://webox.dev
 title: Webox
+layout: default
+
 collections:
   portfolios:
     output: true
     permalink: /portfolios/:name
-  plugins:
+
+plugins:
   - jekyll-sitemap
   - jekyll-feed
 
